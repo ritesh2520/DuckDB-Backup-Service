@@ -10,9 +10,6 @@ Automated DuckDB database backup system with Google Drive integration.
 * Automatic retention cleanup
 * Scheduled backups using `node-cron`
 * Retry mechanism for upload failures
-* Timezone-aware scheduling
-* Production-ready deployment with PM2
-
 ---
 
 # Architecture
