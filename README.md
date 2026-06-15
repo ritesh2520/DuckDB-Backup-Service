@@ -47,19 +47,6 @@ zoho_service_2026-06-15_13-11-04.duckdb
 
 Stored inside the configured Google Drive folder.
 
----
-
-# Prerequisites
-
-Before starting, ensure you have:
-
-* Node.js v20 or higher
-* Google Account
-* Google Cloud Project
-* Google Drive API enabled
-
----
-
 # Project Structure
 
 ```text
