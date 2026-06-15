@@ -1,9 +1,13 @@
+# dependencies
 node_modules/
 
+# environment variables
 .env
 
-credentials/service-account.json
-credentials/oauth-client.json
-credentials/token.json
+# credentials (CRITICAL)
+credentials/
+*.json
 
-
+# logs
+logs/
+*.log
